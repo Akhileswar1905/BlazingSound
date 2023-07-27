@@ -245,6 +245,126 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\1.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\10.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\11.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\12.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\13.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\14.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\15.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\2.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\3.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\4.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\5.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\6.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\7.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\8.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\song_pics\\9.jpg",
+      "PackagePath": "staticwebassets\\song_pics\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\1.mp3",
+      "PackagePath": "staticwebassets\\songs\\1.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\10.mp3",
+      "PackagePath": "staticwebassets\\songs\\10.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\11.mp3",
+      "PackagePath": "staticwebassets\\songs\\11.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\12.mp3",
+      "PackagePath": "staticwebassets\\songs\\12.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\13.mp3",
+      "PackagePath": "staticwebassets\\songs\\13.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\14.mp3",
+      "PackagePath": "staticwebassets\\songs\\14.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\15.mp3",
+      "PackagePath": "staticwebassets\\songs\\15.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\2.mp3",
+      "PackagePath": "staticwebassets\\songs\\2.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\3.mp3",
+      "PackagePath": "staticwebassets\\songs\\3.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\4.mp3",
+      "PackagePath": "staticwebassets\\songs\\4.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\5.mp3",
+      "PackagePath": "staticwebassets\\songs\\5.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\6.mp3",
+      "PackagePath": "staticwebassets\\songs\\6.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\7.mp3",
+      "PackagePath": "staticwebassets\\songs\\7.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\8.mp3",
+      "PackagePath": "staticwebassets\\songs\\8.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\wwwroot\\songs\\9.mp3",
+      "PackagePath": "staticwebassets\\songs\\9.mp3"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazingSound.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

@@ -4,7 +4,9 @@ let songName = document.getElementById("song_name");
 let seekBar = document.getElementById("seekBar");
 let time = document.getElementById("time");
 let index = 1;
-let audio = new Audio(`../songs/${index}.mp3`);
+let audio = new Audio(
+  `https://firebasestorage.googleapis.com/v0/b/blazingsound-32357.appspot.com/o/%5BiSongs.info%5D%2002%20-%20Inthandham.mp3?alt=media&token=501a162a-5ee8-411e-b078-d1ea91143bf2`
+);
 let container = document.querySelector(".container");
 
 console.log(audio);
