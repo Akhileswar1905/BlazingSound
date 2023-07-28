@@ -96,27 +96,6 @@ const songs = [
 
 console.log(index);
 
-// let songs = [
-//   "Fairy Tale",
-//   "Thunder",
-//   "Blood//Water",
-//   "Havana X Shape of you X Mi gente",
-//   "Fight Back",
-//   "Destiny",
-//   "Fearless",
-//   "Beast mode - Beast",
-//   "Guess Who is Back - Black Clover",
-//   "Yoasobi - Into the night",
-//   "Master - Kutti Story",
-//   "Master - Master the Blaster",
-//   "Master - Vaathi coming",
-//   "Master - Vaathi raid",
-//   "Yoasobi - Tabun",
-// ];
-
-let colors = "#";
-const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0, "a", "b", "c", "d", "e", "f"];
-
 function seek() {
   audio.addEventListener("timeupdate", function () {
     seekBar.value = 0;
@@ -147,15 +126,6 @@ function masterPlay() {
 }
 
 function masterNext() {
-  for (let i = 0; i < 3; i++) {
-    colors += "" + nums[Math.floor(Math.random() * nums.length)];
-  }
-  //   console.log(colors);
-
-  document.body.style.backgroundColor = colors;
-  container.style.backgroundColor = colors;
-  colors = "#";
-
   seekBar.value = 0;
   if (index >= 0 && index < songs.length - 1) {
     audio.pause();
@@ -186,13 +156,6 @@ function masterNext() {
 }
 
 function masterPrev() {
-  for (let i = 0; i < 3; i++) {
-    colors += "" + nums[Math.floor(Math.random() * nums.length)];
-  }
-
-  document.body.style.backgroundColor = colors;
-  container.style.backgroundColor = colors;
-  colors = "#";
   if (index > 0 && index < songs.length) {
     console.log(index);
     audio.pause();
