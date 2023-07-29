@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\BlazingSound.csproj": {}
+    "C:\\Users\\Akhileswar\\desktop\\blazingsound\\BlazingSound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\BlazingSound.csproj": {
+    "C:\\Users\\Akhileswar\\desktop\\blazingsound\\BlazingSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\BlazingSound.csproj",
+        "projectUniqueName": "C:\\Users\\Akhileswar\\desktop\\blazingsound\\BlazingSound.csproj",
         "projectName": "BlazingSound",
-        "projectPath": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\BlazingSound.csproj",
+        "projectPath": "C:\\Users\\Akhileswar\\desktop\\blazingsound\\BlazingSound.csproj",
         "packagesPath": "C:\\Users\\Akhileswar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Akhileswar\\Desktop\\BlazingSound\\obj\\",
+        "outputPath": "C:\\Users\\Akhileswar\\desktop\\blazingsound\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Akhileswar\\AppData\\Roaming\\NuGet\\NuGet.Config"
